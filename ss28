@@ -1,6 +1,0 @@
-<?php 
-  function index($a){
-    echo 'hellow '.$a;
-  }
-  index('word');
-?>
